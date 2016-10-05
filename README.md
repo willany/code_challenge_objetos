@@ -20,7 +20,7 @@ Exercício para praticar os conceitos abordados de objetos.
  
    Para abrir o repositório no Sublime, arraste a pasta do repositório sobre o ícone do Sublime, todos os arquivos dentro do repositório agora deve estar visível na barra lateral no Sublime.
    
- # Como Trabalhar Programaçāo em Par
+# Como Trabalhar Programaçāo em Par
  
 Quando você estiver programando em par, duas pessoas estarão trabalhando em um computador - um como o driver e um como o navegator. Em última análise, tanto as pessoas terão que versão do código em seus próprios repositório. Para que isso funcione, cada par pode ser apenas fazer mudanças em um computador de cada vez. Siga estes passos:
 
