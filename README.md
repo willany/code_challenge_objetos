@@ -20,7 +20,11 @@ Exercício para praticar os conceitos abordados de objetos.
  
    Para abrir o repositório no Sublime, arraste a pasta do repositório sobre o ícone do Sublime, todos os arquivos dentro do repositório agora deve estar visível na barra lateral no Sublime.
 
-  
+ 
+ ####### Atividade#################
+ 
+ 
+ 
  # 1 Criar Objeto Notebook.
   
 1)Para inciar, vamor criar a variável Notebook, assine como objeto na forma literal.
