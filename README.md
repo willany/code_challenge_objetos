@@ -1,7 +1,6 @@
 # code_challenge_objetos
 Exercício para praticar os conceitos abordados de objetos.
 
-# code_challenge_objetos
 
 # Fork no Repositório
 
